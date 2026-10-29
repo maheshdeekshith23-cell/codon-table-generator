@@ -72,3 +72,8 @@ Incomplete codon: G
 
 Deekshith M
 MSc Bioinformatics and Biotechnology, Chanakya University, Bengaluru
+## Future improvements
+
+- Find the reverse complement of a sequence
+- Search all three reading frames
+- Read sequences from a FASTA file
