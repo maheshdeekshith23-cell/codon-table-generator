@@ -1,0 +1,5 @@
+Codons: ATG - GCT - TTT - TAA
+Amino acids: Methionine - Alanine - Phenylalanine - Stop
+Start codon: ATG
+Stop codon: TAA
+Incomplete codon: None
