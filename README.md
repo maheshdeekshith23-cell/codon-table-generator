@@ -77,3 +77,6 @@ MSc Bioinformatics and Biotechnology, Chanakya University, Bengaluru
 - Find the reverse complement of a sequence
 - Search all three reading frames
 - Read sequences from a FASTA file
+## Notes
+
+This project was made as part of the MSc Bioinformatics and Biotechnology coursework.
