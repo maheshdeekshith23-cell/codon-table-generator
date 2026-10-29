@@ -59,3 +59,12 @@ A "README.md" @'
 
 - Python 3
 - No extra libraries are needed
+## RNA example
+
+Input (choose option 2):
+
+AUGGCUUUUUAAG
+
+Codons: AUG - GCU - UUU - UAA
+Amino acids: Methionine - Alanine - Phenylalanine - Stop
+Incomplete codon: G
