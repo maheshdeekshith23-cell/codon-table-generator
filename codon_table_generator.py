@@ -1,3 +1,7 @@
+# Project: Codon Table Generator
+# Author: Deekshith M
+# Description: Translates a DNA or RNA sequence into amino acids
+#              using the standard genetic code.
 codon_table = {
 
     # Phenylalanine
