@@ -50,3 +50,12 @@ The dictionary was compared with the standard genetic code table (NCBI table 1) 
 ## Concepts used
 
 Python dictionaries, loops, conditional statements, string manipulation, input validation, basic biological sequence analysis.
+- Python 3
+- No extra libraries are needed
+# Commit 4
+A "README.md" @'
+
+## Requirements
+
+- Python 3
+- No extra libraries are needed
