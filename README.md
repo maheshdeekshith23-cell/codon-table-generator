@@ -68,3 +68,7 @@ AUGGCUUUUUAAG
 Codons: AUG - GCU - UUU - UAA
 Amino acids: Methionine - Alanine - Phenylalanine - Stop
 Incomplete codon: G
+## Author
+
+Deekshith M
+MSc Bioinformatics and Biotechnology, Chanakya University, Bengaluru
